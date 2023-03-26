@@ -1,0 +1,3 @@
+# 30-days-300-questions
+i'll do 10 questions of leetcode daily for 30 days.I'll solved the unsolved questions.
+i sure...
